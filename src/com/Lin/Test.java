@@ -14,7 +14,7 @@ public class Test {
 		Qrcode q = new Qrcode();
 		q.setContent("http://blog.csdn.net/why_still_confused/article/details/51908901");
 		q.setFilePath("D://");
-		q.setFileName("1.png");
+		q.setFileName("blog.png");
 		q.setHeight(200);
 		q.setWidth(200);
 		q.setFormat("png");
